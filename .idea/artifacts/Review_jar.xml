@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Review:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Review_jar</output-path>
+    <root id="archive" name="Review.jar">
+      <element id="module-output" name="Review" />
+    </root>
+  </artifact>
+</component>
